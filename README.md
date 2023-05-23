@@ -15,12 +15,6 @@ This is a simple login and registration system implemented in PHP using MySQL as
 - PHP 5.6 or higher
 - MySQL database
 
-## Installation
-
-1. Clone the repository or download the source code.
-2. Import the `users.sql` file into your MySQL database to create the necessary `users` table.
-3. Update the database credentials in the `config.php` file with your own database connection details.
-
 ## Usage
 
 1. Register a new user:
